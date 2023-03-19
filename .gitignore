@@ -1,0 +1,13 @@
+.allure/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+# testNG
+test-output/
